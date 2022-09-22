@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá, me chamo Renan Rodrigues, e atualmente sou estudante de analise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/RenanRodrigues01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanRodrigues01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRodrigues01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenanRodrigues01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRodrigues01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
