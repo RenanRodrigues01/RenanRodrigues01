@@ -1,4 +1,4 @@
-### Olá, me chamo Renan Rodrigues, e atualmente sou estudante de analise e desenvolvimento de sistemas.
+### Olá, me chamo Renan Rodrigues, e atualmente sou desenvolvedor Front-End.
 
 <div align="center">
   <a href="https://github.com/RenanRodrigues01">
